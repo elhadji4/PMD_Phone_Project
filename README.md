@@ -11,12 +11,13 @@ Pour exécuter ce projet :
 1. Clonez le dépôt :
    
     git clone https://github.com/elhadji4/PMD_Phone_Project.git
+   
     cd projet-telephone
     
 
-2. Créez le fichier `telephone.js` et ajoutez-y le code.
+3. Créez le fichier `telephone.js` et ajoutez-y le code.
 
-3. Exécutez le fichier avec Node.js :
+4. Exécutez le fichier avec Node.js :
    
     node telephone.js
   
