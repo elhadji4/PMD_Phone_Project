@@ -10,7 +10,7 @@ Pour exécuter ce projet :
 
 1. Clonez le dépôt :
    
-    git clone https://github.com/votre_nom_utilisateur/projet-telephone.git
+    git clone (https://github.com/elhadji4/PMD_Phone_Project.git)
     cd projet-telephone
     
 
